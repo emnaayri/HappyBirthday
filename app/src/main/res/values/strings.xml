@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="happy_birthday_sam">Happy Birthday SAM</string>
+    <string name="from_emna">From EMNA</string>
+    <string name="background">background</string>
+    <string name="happy">happy</string>
+</resources>
